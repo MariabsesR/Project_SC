@@ -40,3 +40,7 @@ Security Features Implemented
 
     Remote Attestation:
         Clients prove their integrity by sending a hash of their executable combined with a nonce, preventing replay attacks.
+How to Run
+
+Please refer to the detailed README inside the project folder for instructions on how to run the project.
+        
